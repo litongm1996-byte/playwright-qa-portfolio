@@ -1,0 +1,23 @@
+{
+  "name": "playwright-qa-portfolio",
+  "version": "1.0.0",
+  "description": "Training and practice project by Yury Litoshik (Senior Manual QA Engineer, learning test automation). Not commercial experience: built to practice UI automation with Playwright and JavaScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litongm1996-byte/playwright-qa-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/litongm1996-byte/playwright-qa-portfolio/issues"
+  },
+  "homepage": "https://github.com/litongm1996-byte/playwright-qa-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
